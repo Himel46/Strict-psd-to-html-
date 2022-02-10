@@ -229,7 +229,7 @@ header{
 }
 
 .service-icon{
-	background: linear-gradient(to right, #48baff 50%, #5fc3ff 50%);
+	background-color: linear-gradient(to right, #48baff 50%, #5fc3ff 50%);
 	width: 80px;
 	height: 80px;
 	line-height: 80px;
